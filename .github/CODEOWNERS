@@ -1,4 +1,2 @@
-*                  @blamdemo/maintainers
-
-src/team-1         @blamdemo/team-1
+src/team-1         @blamdemo/team-1 @blamdemo/maintainers
 src/team-2         @blamdemo/team-2
